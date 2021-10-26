@@ -1,1 +1,1 @@
-Launch Client.exe
+Launch Server.exe
